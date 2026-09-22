@@ -2,13 +2,11 @@
 
 <img src="https://cdn.osthelia.org/Osthelia/logo.png" alt="Osthelia logo" width="220" />
 
-<h1 style="font-size: px;">Osthelia</h1>
+<p> <font size="7"><strong>Osthelia</strong></font> </p>
 
-<h2>Building a better esport.</h2>
+<p> <font size="5"><strong>Building a better esport.</strong></font> </p>
 
-<p>
-  An independent initiative for a more inclusive, accessible, and ethical esport.
-</p>
+<p> An independent initiative for a more inclusive, accessible, and ethical esport. </p>
 
 <br />
 
