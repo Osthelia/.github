@@ -2,7 +2,11 @@
 
 <img src="https://cdn.osthelia.org/Osthelia/logo.png" alt="Osthelia logo" width="220" />
 
-<p> <font size="7"><strong>Osthelia</strong></font> </p>
+<br />
+
+<img src="https://cdn.osthelia.org/Osthelia/github-text.svg" alt="OSTHELIA" width="500" />
+
+<br />
 
 <p> <font size="5"><strong>Building a better esport.</strong></font> </p>
 
