@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://cdn.osthelia.org/Osthelia/github-text.svg" alt="OSTHELIA" width="500" />
+<img src="https://cdn.osthelia.org/Osthelia/github-text.svg?v=2" alt="OSTHELIA" width="500" />
 
 <br />
 
