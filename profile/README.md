@@ -16,7 +16,7 @@
 
 <a href="https://osthelia.org/">Website</a>
  ·  <a href="https://gc-stats.app/">GC Stats</a>
-
+ ·  <a href="https://scouting.gc-stats.app/">GC Scouting</a>
 </div>
 
 
